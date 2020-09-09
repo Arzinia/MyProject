@@ -1,5 +1,0 @@
-一.Msyql事务隔离级别：
-read uncommitted（未提交读）
-read commited（提交读）
-repeatable read（可重复读）
-serializable（串行化）
