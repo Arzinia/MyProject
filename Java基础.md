@@ -381,7 +381,7 @@ ReentrantLock就是持有一个名为sync的内部类，这个内部类继承了
 
 # 16. 线程的状态及其转化
 
-![Image text](https://github.com/Arzinia/MyProject/blob/master/images/Image.png)
+![Image text](https://github.com/Arzinia/MyProject/blob/master/images/%E7%BA%BF%E7%A8%8B%E7%9A%84%E7%8A%B6%E6%80%81%E5%8F%8A%E5%85%B6%E8%BD%AC%E5%8C%96.png)
 
 # 17. hashmap
 
